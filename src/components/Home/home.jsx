@@ -34,10 +34,10 @@ function Home() {
                             {fachartline}
                             <h4>Business Analysis</h4>
                         </div>
-                        <div className="banner_style_1 banner_style_2">
+{/*                         <div className="banner_style_1 banner_style_2">
                             {fashieldhalved}
                             <h4>99.9% Success</h4>
-                        </div>
+                        </div> */}
                         <div className="banner_style_1 banner_style_3">
                             {fachartarea}
                             <h4>Strategy</h4>
